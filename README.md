@@ -134,7 +134,7 @@ Express Air remains the best for high-priority orders, which was underused.
 Delivery Truck although slower and cheaper was overused even for urgent orders.
 This mismatch results in wasted cost and delayed deliveries.
 
-## INSIGHTS
+### INSIGHTS
 - Most Sold Category: Office Supplies
 - Top Region by Sales: West
 - Least Performing Region: Nunavut or Territories
